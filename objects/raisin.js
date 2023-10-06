@@ -1,4 +1,6 @@
-//Define the raisnAlarm function
+//part of the Pair Programming exercise done with @Andrew On in WK 2
+
+//Define the raisinAlarm function
 const raisinAlarm = function(cookie) { 
   if (cookie.includes("🍇")) { //conditional ststement to check if 🍇 is in the array
     return "🚨🚨 Raisin alert! 🚨🚨"; //expected output if yes
